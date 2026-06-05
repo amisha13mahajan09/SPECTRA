@@ -4,24 +4,39 @@ SPECTRA is a smart attendance management system built with Flutter and Python. I
 
 ## Features
 Login system for students and teachers
+
 Today's lecture schedule view
+
 QR code based attendance verification
+
 Geofencing to confirm classroom presence
+
 Facial recognition using OpenCV
+
 Attendance analytics and dashboards
+
 Subject-wise, daily, weekly, and monthly attendance tracking
+
 Defaulter list for teachers
+
 Secure and structured attendance storage using MySQL
 
 
 ## Tech Stack
 Flutter
+
 Dart
+
 Python
+
 OpenCV
+
 face_recognition
+
 MySQL
+
 REST APIs
+
 Flutter Charts
 
 
@@ -31,18 +46,27 @@ SPECTRA stands for Smart Presence Evaluation and Classroom Tracking Recognition 
 
 ## How It Works
 User logs in as a student or teacher
+
 Student selects the current lecture from today's schedule
+
 The app verifies attendance using QR code scanning
+
 The system checks whether the student is within the classroom boundary using geofencing
+
 Facial recognition is performed for final verification
+
 Attendance is marked only if all checks are successful
 
 
 ## Objectives
 Automate attendance marking
+
 Prevent proxy attendance
+
 Generate real-time attendance statistics
+
 Maintain secure attendance records
+
 Reduce manual workload for faculty
 
 
