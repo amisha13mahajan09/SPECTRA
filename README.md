@@ -50,6 +50,13 @@ SPECTRA stands for Smart Presence Evaluation and Classroom Tracking Recognition 
 
 This project was developed as a Course End Project for academic purposes.
 
+## Feature Showcase
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/61b554d4-7d0d-4ff0-b993-46653f84bd4f" width="800"/>
+</div>
+
+
 ## Author
 
 Amisha Mahajan
