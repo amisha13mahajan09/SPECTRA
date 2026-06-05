@@ -1,0 +1,31 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+*.iml
+*.ipr
+*.iws
+.idea/
+*.class
+*.log
+*.pyc
+__pycache__/
+*.pyo
+
+# Python
+venv/
+.env
+*.egg-info/
+dist/
+*.pyc
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Android Studio
+*.iml
+.gradle/
+local.properties
